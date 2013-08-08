@@ -1,4 +1,8 @@
-Ruby Application
-====================
-> The purpose of this application is to create a central repository for the Art World.
-> Art is currently scattered across the web and its beauty should be displayed in a central place. This application's goal will to be to bring that beauty into a single application to allow users to share that beauty with the world.
+# Ruby Application
+---
+### Purpose
+The goal of this application is to create a central repository for the Art World and highlight a piece each day.
+
+#### Steps
+1. Create a Blog
+2. Unknown
